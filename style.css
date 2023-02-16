@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+.button{
+  border:none;
+  background-color:rgb(114, 150, 180);
+  color:rgb(255, 255, 255);
+  text-align: center;
+  display: inline-block;
+  position:absolute;
+}
+.Good-font{
+  font-family: Noto Sans Mono;
+  color:rgb(255, 123, 123);
+}
